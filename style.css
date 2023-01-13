@@ -1,6 +1,5 @@
 /* font */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Prompt:ital,wght@1,300&display=swap');
-
 /* common styles or utilities */
 body{
     font-family: 'Prompt', sans-serif;
@@ -113,5 +112,4 @@ hr{
     .players, .courses{
         grid-template-columns: repeat(2, 1fr);
     }
-    
 }
